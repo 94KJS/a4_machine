@@ -29,7 +29,6 @@
   * 정규식 통해 이메일을 가려내기
   * 유저네임에서 리플레이스 사용해서 공백을 가려냄
   * 패스워드랑 패스워드 체크로 다를때 회원가입 방지
-  * 유저네임 중복 방지
 
 * 로그인
 
@@ -47,8 +46,9 @@
 
 # 와이어프레임
 
-<img src="https://user-images.githubusercontent.com/113074921/197087985-6c4ff0cd-9308-44d5-9649-9e39f3444a3e.png" width="600px" height="300px">
-<img src="https://user-images.githubusercontent.com/113074921/197088030-24bfc949-c195-454f-843d-f8b5dce68dcd.png" width="600px" height="300px">
+
+<img src="https://user-images.githubusercontent.com/113074921/197097532-14806ee7-0865-41e9-a841-803d89588ac9.png" width="700px" height="500px">
+
 
 # AIP설계
 
@@ -62,11 +62,6 @@
 # 결과 이미지
 <img src="https://sitem.ssgcdn.com/63/60/92/item/2097000926063_i1_1200.jpg" width="300px" height="300px">
 <img src="https://user-images.githubusercontent.com/113074921/196870904-ca44f061-c572-47ec-895a-fa5955d83d53.png" width="300px" height="300px">
-
-
-
-
-
 
 
 
@@ -85,6 +80,10 @@
 
 ### 머신러닝
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
+
+
+# 시연영상(링크)
+https://www.youtube.com/watch?v=UDhzJDc04_M
 
 
 
