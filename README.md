@@ -51,7 +51,7 @@
 <img src="https://user-images.githubusercontent.com/113074921/197099042-f5b49a23-76d3-4fc2-8dd7-58ae08278fd8.png" width="700px" height="500px">
 
 
-# AIP설계
+# API설계
 
 <img src="https://user-images.githubusercontent.com/113074921/197088740-00a8e9a9-2d81-4d35-9ea4-142d465232e1.png" width="600px" height="300px">
 
