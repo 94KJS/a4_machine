@@ -47,7 +47,8 @@
 # 와이어프레임
 
 
-<img src="https://user-images.githubusercontent.com/113074921/197097532-14806ee7-0865-41e9-a841-803d89588ac9.png" width="700px" height="500px">
+
+<img src="https://user-images.githubusercontent.com/113074921/197099042-f5b49a23-76d3-4fc2-8dd7-58ae08278fd8.png" width="700px" height="500px">
 
 
 # AIP설계
